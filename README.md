@@ -10,7 +10,7 @@ Furthermore, we apply data visualization techniques to present the survey result
 By conducting this analysis on the CSV file, we aim to extract valuable insights that can drive business growth and enhance customer satisfaction for the food delivery company. The project leverages data analysis techniques to derive actionable recommendations and strategies to improve the company's services and meet customer expectations.
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages.
 
 ```bash
 pip install pandas
