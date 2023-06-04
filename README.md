@@ -18,3 +18,5 @@ pip install numpy
 pip install matplotlib
 pip install seaborn
 ```
+## Authors
+- [Dhananjay Prajapati](https://www.linkedin.com/in/dhananjay-prajapati-35a1941b0)
